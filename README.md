@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrunaPacheco
+- 👋 Hi, I’m @BrunaPacheco.
 -  Sistemas para Internet.
 -  Python and JavaScript.
 
