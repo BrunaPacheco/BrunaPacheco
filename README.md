@@ -1,6 +1,6 @@
--Bruna Pacheco
--Estudante de ► Sistemas para Internet.
--Praticando com ► Python and JavaScript.
+-Meu  nome é Bruna Pacheco.
+-Estudante de Sistemas para Internet.
+-Praticando com  Python and JavaScript.
 
 
 
