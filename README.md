@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BrunaPacheco.
--  Sistemas para Internet.
--  Python and JavaScript.
+-Bruna Pacheco
+-Estudante de ► Sistemas para Internet.
+-Praticando com ► Python and JavaScript.
 
 
 
